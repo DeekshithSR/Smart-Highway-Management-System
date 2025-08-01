@@ -4,20 +4,27 @@ A smart and interactive web-based highway management system built using Streamli
 📌 Features:
 
 ✅ Toll plaza entry and vehicle log interface
+
 ✅ Separate views for vehicles, tolls, and incident data
+
 ✅ Interactive dashboard built with Streamlit
+
 ✅ Simple and lightweight UI for fast response
+
 ✅ Easily extendable with mapping, alerts, and ML-based predictions
 
 🚀 Technologies Used:
 
 Python 3
+
 Streamlit
+
 Pandas
 
 📦 How to Run:
 
 pip install -r requirements.txt
+
 python -m streamlit run app.py
 
 
