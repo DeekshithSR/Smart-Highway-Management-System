@@ -15,16 +15,16 @@ A smart and interactive web-based highway management system built using Streamli
 
 🚀 Technologies Used:
 
-Python 3
+1. Python 3
 
-Streamlit
+2. Streamlit
 
-Pandas
+3. Pandas
 
 📦 How to Run:
 
-pip install -r requirements.txt
+1. pip install -r requirements.txt
 
-python -m streamlit run app.py
+2. python -m streamlit run app.py
 
 
